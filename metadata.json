@@ -1,0 +1,5 @@
+{
+  "name": "VimDoc",
+  "description": "A minimalist, professional document editor with integrated Vim keybindings for power users.",
+  "requestFramePermissions": []
+}

@@ -1,15 +1,20 @@
-Welcome to VimDoc.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-This is a minimalist document editor with Vim keybindings.
+# Run and deploy your AI Studio app
 
-Press 'i' to enter INSERT mode.
-Press 'Esc' to return to NORMAL mode.
+This contains everything you need to run your app locally.
 
-Try some Vim commands:
-- 'dd' to delete a line
-- 'u' to undo
-- '/' to search
-- 'gg' to go to top
-- 'G' to go to bottom
+View your app in AI Studio: https://ai.studio/apps/652e5edf-bded-48c4-821a-c1123c2573e4
 
-Enjoy the focus.
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
