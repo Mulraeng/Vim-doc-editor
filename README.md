@@ -1,11 +1,15 @@
-<div align="center">
+Welcome to VimDoc.
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This is a minimalist document editor with Vim keybindings.
 
-  <h1>Built with AI Studio</h2>
+Press 'i' to enter INSERT mode.
+Press 'Esc' to return to NORMAL mode.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Try some Vim commands:
+- 'dd' to delete a line
+- 'u' to undo
+- '/' to search
+- 'gg' to go to top
+- 'G' to go to bottom
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+Enjoy the focus.
